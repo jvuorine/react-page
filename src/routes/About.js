@@ -8,5 +8,4 @@ export function About() {
     );
   }
   
-  export default App;
   

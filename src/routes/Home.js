@@ -8,4 +8,3 @@ export function Home() {
   );
 }
 
-export default App;
